@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SiRuiB
-- 💞️ I’m looking to collaborate on quantitative finance 
-- 📫 How to reach me bisirui@llmquant.com
+- 💞️ I’m looking to collaborate on quantitative finance & international trade
+- 📫 How to reach me sirui@llmquant.com
 
 <!---
 SiRuiB/SiRuiB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
